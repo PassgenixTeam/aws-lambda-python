@@ -2,6 +2,8 @@
 
 This module is used for integrating lambda with AWS Athena.
 
+![Athena module](./images/header.jpeg)
+
 ## How does it work?
 
 This module provides some useful functions that can be used to query data from an S3 bucket using Athena and parse the result.
